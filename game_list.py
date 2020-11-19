@@ -99,15 +99,3 @@ for gameListing in RawInputList:
         continue
     parsedListing = parsedListing.strip().split('.')[1].strip()
     write_script(create_script(parsedListing), parsedListing)
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
